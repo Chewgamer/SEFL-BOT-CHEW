@@ -4,7 +4,7 @@ cd /sdcard
 
 apt update && apt upgrade -y && apt install python -y && apt install git -y
 
-git clone https:
+git clone https: https://github.com/Chewgamer/SEFL-BOT-CHEW.git
 
 cd p3 && python -m pip install -r pip.txt && python3 p3.py
 
